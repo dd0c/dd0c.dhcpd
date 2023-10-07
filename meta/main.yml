@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: dd0c
+  description: DHCPD, powered by Ansible
+  role_name: dhcpd
+
+  license: GPLv3
+
+  min_ansible_version: '2.12'
+
+  platforms:
+    - name: EL
+      versions:
+        - '8'
+        - '9'
+
+  galaxy_tags:
+    - dhcpd
+
+dependencies: []
