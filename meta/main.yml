@@ -1,8 +1,9 @@
 ---
+
 galaxy_info:
   author: dd0c
   description: DHCPD, powered by Ansible
-  role_name: dhcpd
+  role_name: dd0c.dhcpd
 
   license: GPLv3
 
@@ -18,3 +19,5 @@ galaxy_info:
     - dhcpd
 
 dependencies: []
+
+...
